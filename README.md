@@ -249,6 +249,6 @@ yulu-bike-demand-analysis-hypothesis-testing
 
 **Richa Jain**
 
-Aspiring Data Analyst | Python | SQL | Statistics | Power BI | Tableau | Machine Learning
+Aspiring Data Analyst | Python | SQL | Statistics | Tableau 
 
 If you found this project useful, consider ⭐ starring the repository.
