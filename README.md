@@ -175,6 +175,16 @@ Based on statistical evidence, Yulu can improve business performance by:
 - Use weather-aware operational planning to maximize utilization.
 
 ---
+## 🎯 Business Impact
+
+This analysis enables Yulu to:
+
+- Optimize fleet allocation
+- Improve operational planning
+- Increase bike utilization
+- Design weather-aware marketing campaigns
+- Improve seasonal demand forecasting
+---
 
 # 📚 Statistical Techniques Used
 
